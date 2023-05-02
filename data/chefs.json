@@ -2,7 +2,7 @@
         {
             "id": 1,
             "name": "Satoshi Nakamoto",
-            "picture": "https://example.com/chef1.jpg",
+            "picture": "https://images.pexels.com/photos/8951199/pexels-photo-8951199.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
             "bio": "Satoshi Nakamoto is a Japanese chef with over 20 years of experience in traditional Japanese cuisine. He specializes in sushi and has won multiple awards for his craft.",
             "yearsOfExperience": 20,
             "numberOfRecipes": 50,
@@ -49,7 +49,7 @@
         {
             "id": 2,
             "name": "Yoko Ono",
-            "picture": "https://example.com/chef2.jpg",
+            "picture": "https://images.pexels.com/photos/13869904/pexels-photo-13869904.jpeg?auto=compress&cs=tinysrgb&w=800&lazy=load",
             "bio": "Yoko Ono is a Japanese chef who specializes in vegan and vegetarian cuisine. She has published several cookbooks and is a popular speaker at food events around the world.",
             "yearsOfExperience": 15,
             "numberOfRecipes": 30,
@@ -96,7 +96,7 @@
         {
             "id": 3,
             "name": "Takeshi Kitano",
-            "picture": "https://example.com/chef3.jpg",
+            "picture": "https://media.istockphoto.com/id/1154801795/ja/%E3%82%B9%E3%83%88%E3%83%83%E3%82%AF%E3%83%95%E3%82%A9%E3%83%88/%E6%96%99%E7%90%86%E3%81%AE%E3%82%B7%E3%82%A7%E3%83%95.jpg?s=612x612&w=0&k=20&c=ALgc_E3hZBnfdsR2MgQUt_YFpCHtTXFvCE0f---osc4=",
             "bio": "Takeshi Kitano is a Japanese chef who is known for his innovative fusion cuisine. He has opened several restaurants in Japan and the United States.",
             "yearsOfExperience": 18,
             "numberOfRecipes": 40,
@@ -143,7 +143,7 @@
         {
             "id": 4,
             "name": "Mitsuru Konishi",
-            "picture": "https://example.com/chef4.jpg",
+            "picture": "https://media.istockphoto.com/id/604365504/ja/%E3%82%B9%E3%83%88%E3%83%83%E3%82%AF%E3%83%95%E3%82%A9%E3%83%88/%E7%AC%91%E9%A1%94%E3%81%AE%E6%97%A5%E6%9C%AC%E4%BA%BA%E3%82%B7%E3%82%A7%E3%83%95.jpg?s=612x612&w=0&k=20&c=UhLgyF9QysOgg5f7X1k_VVEC_MYshIwNw2aRAOWNqgI=",
             "bio": "Mitsuru Konishi is a Japanese chef who specializes in traditional Japanese cuisine. He has trained at several Michelin-starred restaurants in Japan and France.",
             "yearsOfExperience": 25,
             "numberOfRecipes": 60,
@@ -190,7 +190,7 @@
         {
             "id": 5,
             "name": "Naomi Watanabe",
-            "picture": "https://example.com/chef5.jpg",
+            "picture": "https://media.istockphoto.com/id/598057790/ja/%E3%82%B9%E3%83%88%E3%83%83%E3%82%AF%E3%83%95%E3%82%A9%E3%83%88/%E6%97%A5%E6%9C%AC%E4%BA%BA%E3%82%B7%E3%82%A7%E3%83%95%E3%81%AE%E3%83%9D%E3%83%BC%E3%83%88%E3%83%AC%E3%83%BC%E3%83%88.jpg?s=612x612&w=0&k=20&c=XBCgFzPHGgISUV40jgzv6gMw_rG07iVKboA5hZ6oZ8c=",
             "bio": "Naomi Watanabe is a Japanese chef who is passionate about creating healthy and nutritious meals that are also delicious. She believes in using fresh, locally-sourced ingredients and loves experimenting with different flavors and cuisines.",
             "yearsOfExperience": 10,
             "numberOfRecipes": 20,
@@ -237,7 +237,7 @@
         {
             "id": 6,
             "name": "Haruki Murakami",
-            "picture": "https://example.com/chef6.jpg",
+            "picture": "https://media.istockphoto.com/id/1360305248/ja/%E3%82%B9%E3%83%88%E3%83%83%E3%82%AF%E3%83%95%E3%82%A9%E3%83%88/%E3%83%AC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%B3%E3%81%A7%E3%81%AE%E3%82%A2%E3%82%B8%E3%82%A2%E3%82%B9%E3%82%BF%E3%83%83%E3%83%95%E6%8C%87%E5%B0%8E.jpg?s=1024x1024&w=is&k=20&c=H6TANb9vvQBwe3T7HcNTF86joNMLaWpn-B75abcMFS0=",
             "bio": "Haruki Murakami is a Japanese chef who has gained international acclaim for his innovative approach to Japanese cuisine. He is particularly known for his fusion of traditional Japanese flavors with Western cooking techniques.",
             "yearsOfExperience": 25,
             "numberOfRecipes": 70,
