@@ -1,5 +1,4 @@
-{
-    "chefs": [
+ [
         {
             "id": 1,
             "name": "Satoshi Nakamoto",
@@ -283,4 +282,3 @@
             ]
         }
     ]
-}
